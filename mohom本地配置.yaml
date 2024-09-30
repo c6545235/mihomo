@@ -20,7 +20,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "订阅"
+    url: "http://45.143.233.7:8000/c/v2ray/6Ieq55So"
     override:
       skip-cert-verify: true
       udp: true
