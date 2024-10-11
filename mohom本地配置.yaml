@@ -21,7 +21,7 @@ proxy-providers:
       interval: 300
     proxy: 🟢 直连
     url: "https://needay04.729388.xyz/api/v1/client/subscribe?token=6ca92cc4867aa490f5d13e1320b54fa4&types=hysteria2"
-   Airport_03:
+  Airport_03:
     type: http
     interval: 1800
     health-check:
@@ -29,7 +29,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "http://45.143.233.7:8000/c/clash/6Ieq5bu6" 
+    url: "http://45.143.233.7:8000/c/clash/6Ieq5bu6"
     
     override:
       skip-cert-verify: true
